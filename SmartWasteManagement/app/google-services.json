@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "469505356261",
+    "firebase_url": "https://swm-iot.firebaseio.com",
+    "project_id": "swm-iot",
+    "storage_bucket": "swm-iot.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:469505356261:android:72c3fd64f3275355",
+        "android_client_info": {
+          "package_name": "com.example.risabhmishra.smartwastemanagement"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "469505356261-61e4h82r38nsjri23g8r6e25v9m82rco.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.risabhmishra.smartwastemanagement",
+            "certificate_hash": "ad5616291774f4f1070bab144586cf51fb7e60c9"
+          }
+        },
+        {
+          "client_id": "469505356261-fb8lekkchj92v67kkqhjn5jq1kkj320e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgTVvwEh-FYPJG6OetVuqwY-QKd5Fk0NE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "469505356261-fb8lekkchj92v67kkqhjn5jq1kkj320e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
